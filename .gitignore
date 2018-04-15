@@ -1,0 +1,8 @@
+*.pyc
+logs/*.slp.csv
+logs/*.log
+*.DS_STORE
+credentials.py
+sleeplogger.log
+.idea/
+.env/
